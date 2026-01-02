@@ -1,5 +1,16 @@
 # 🧭 Axiom-Zero: Global Settlement Control & Liquidity Risk Engine
 
+## 📁 Repository Structure
+
+Project_4_Axiom-Zero-Global-Settlement/
+│
+├─ assets/
+│ ├─ Axiom_Dashboard_Green.png
+│ ├─ Axiom_Dashboard_Red.png
+│ └─ placeholder/ # Future dashboard states
+├─ Axiom_Zero_Global_Ledger_Data.xlsm # Core settlement engine & risk logic
+├─ README.md # This file
+---
 ![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
 
 > **A mission-critical pre-execution risk gate designed to enforce capital preservation protocols. Axiom-Zero transitionary logic ensures that global settlements are only executed when market volatility and liquidity conditions meet strict regulatory and internal risk appetites.**
@@ -64,18 +75,6 @@ The engine is built on a robust framework of financial engineering and automated
 - **Liquidity Risk Management:** Automating suspension of trades during flash crashes or high-volatility events.  
 - **Finance Transformation:** Replacing manual, error-prone spreadsheets with a deterministic governance tool.
 
----
-
-## 📁 Repository Structure
-
-Project_4_Axiom-Zero-Global-Settlement/
-│
-├─ assets/
-│ ├─ Axiom_Dashboard_Green.png
-│ ├─ Axiom_Dashboard_Red.png
-│ └─ placeholder/ # Future dashboard states
-├─ Axiom_Zero_Global_Ledger_Data.xlsm # Core settlement engine & risk logic
-├─ README.md # This file
 ---
 
 ## ⚠️ Contributing
