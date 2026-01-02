@@ -1,9 +1,13 @@
 # 🧭 Axiom-Zero: Global Settlement Control & Liquidity Risk Engine
 
 ## 📁 Repository Structure
-Project_4_Axiom-Zero-Global-Settlement │ ├─ assets │  ├─ 
-Axiom_Dashboard_Green.png │  ├─ Axiom_Dashboard_Red.png │  └─ placeholder │ ├─ 
-Axiom_Zero_Global_Ledger_Data.xlsm └─ README.md
+Project_4_Axiom-Zero-Global-Settlement/
+├─ assets/
+│ ├─ Axiom_Dashboard_Green.png
+│ ├─ Axiom_Dashboard_Red.png
+│ └─ placeholder/
+├─ Axiom_Zero_Global_Ledger_Data.xlsm
+└─ README.md
 
 ---
 
