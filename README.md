@@ -2,14 +2,15 @@
 
 ## 📁 Repository Structure
 
-Project_4_Axiom-Zero-Global-Settlement/
+Project_4_Axiom-Zero-Global-Settlement
 │
-├─ assets/
-│ ├─ Axiom_Dashboard_Green.png
-│ ├─ Axiom_Dashboard_Red.png
-│ └─ placeholder/ # Future dashboard states
-├─ Axiom_Zero_Global_Ledger_Data.xlsm # Core settlement engine & risk logic
-├─ README.md # This file
+├─ assets
+│  ├─ Axiom_Dashboard_Green.png
+│  ├─ Axiom_Dashboard_Red.png
+│  └─ placeholder
+│
+├─ Axiom_Zero_Global_Ledger_Data.xlsm
+└─ README.md
 ---
 ![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
 
