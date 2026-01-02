@@ -24,7 +24,14 @@ Project_4_Axiom-Zero-Global-Settlement/
 
 When volatility and liquidity indicators remain within approved thresholds, the engine authorises settlement execution and displays a **GREEN (STABLE)** operational state.
 
-![System Stable Dashboard](Project_4_Axiom-Zero-Global-Settlement/assets/Axiom_Dashboard_Green.png)
+## Dashboard Screenshots
+
+**Green Status Dashboard**  
+![Green Dashboard](assets/Axiom_Dashboard_Green.png)
+
+**Red Status Dashboard**  
+![Red Dashboard](assets/Axiom_Dashboard_Red.png)
+
 
 ### Executive Interpretation
 - Market volatility within tolerance  
@@ -39,8 +46,6 @@ This view is designed for **instant executive assurance**, not analytical overlo
 ## 🚨 Executive Control Dashboard — System Volatile
 
 When volatility thresholds are breached, Axiom-Zero automatically transitions to a **RED (VOLATILE)** state and suspends settlement execution to prevent capital leakage.
-
-![System Volatile Dashboard](Project_4_Axiom-Zero-Global-Settlement/assets/Axiom_Dashboard_Red.png)
 
 ### Executive Interpretation
 - Elevated market or liquidity risk detected  
