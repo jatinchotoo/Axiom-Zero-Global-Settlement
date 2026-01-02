@@ -69,4 +69,21 @@ Capital preservation is prioritised over throughput, aligning with institutional
 ---
 
 ## Repository Structure
+/assets
+├─ Executive dashboard screenshots
+├─ Risk-state UI demonstrations
+
+Axiom_Zero_Global_Ledger_Data.xlsm
+└─ Core settlement engine and macro-driven logic
+
+
+---
+
+## Use Cases
+- Global treasury operations
+- Remote payroll settlement
+- Multi-currency liquidity management
+- Capital protection during market volatility
+- Executive-level financial oversight
+
 
