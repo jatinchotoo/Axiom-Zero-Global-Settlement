@@ -14,7 +14,10 @@ Project_4_Axiom-Zero-Global-Settlement
 │  ├─ Axiom_Dashboard_Red.png
 │  └─ placeholder/
 ├─ Axiom_Zero_Global_Ledger_Data.xlsm
-└─ README.md![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
+└─ README.md
+
+
+![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
 
 
 ---
