@@ -6,9 +6,6 @@
 
 ---
 
-## 📁 Repository Structure
-
-
 # 📁 Repository Structure
 
 Project_4_Axiom-Zero-Global-Settlement
