@@ -1,10 +1,16 @@
 # 🧭 Axiom-Zero: Global Settlement Control & Liquidity Risk Engine
 
+![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
+
 > **A mission-critical pre-execution risk gate designed to enforce capital preservation protocols. Axiom-Zero transitionary logic ensures that global settlements are only executed when market volatility and liquidity conditions meet strict regulatory and internal risk appetites.**
+
+---
+
+## 📁 Repository Structure
+
 
 # 📁 Repository Structure
 
-```text
 Project_4_Axiom-Zero-Global-Settlement
 ├─ assets/
 │  ├─ Axiom_Dashboard_Green.png
@@ -12,6 +18,7 @@ Project_4_Axiom-Zero-Global-Settlement
 │  └─ placeholder/
 ├─ Axiom_Zero_Global_Ledger_Data.xlsm
 └─ README.md![Axiom-Zero Stable Dashboard](assets/Axiom_Dashboard_Green.png)
+
 
 ---
 
@@ -29,19 +36,44 @@ By acting as a **"Circuit Breaker"** for treasury operations, the engine evaluat
 
 ---
 
-## 📊 Governance Control States
+## 📊 Dashboard Visualizations
 
-### **State 1: System Stable (Execution Authorised)**
+Here we show the **key metrics and traffic-light decision points** as they appear on the Axiom-Zero dashboard.
 
-When the **QVI** remains within tolerance, the system signals a **STABLE** state, permitting the deployment of capital.
+### 1️⃣ Settlement Status Dashboards
 
+**System Stable (Execution Authorised)**
 ![Stable Dashboard](assets/Axiom_Dashboard_Green.png)
 
-### **State 2: System Volatile (Execution Suspended)**
-
-Upon breaching volatility or liquidity thresholds, **Axiom-Zero** triggers an immediate **Settlement Block**. This automated intervention protects the firm's liquidity during market stress.
-
+**System Volatile (Execution Suspended)**
 ![Volatile Dashboard](assets/Axiom_Dashboard_Red.png)
+
+---
+
+### 2️⃣ Key Metrics Charts
+
+**ROE & Quantum Volatility Index**
+![ROE Chart](assets/ROE_Chart.png)
+
+**Liquidity Corridor Heatmap**
+![Liquidity Heatmap](assets/Liquidity_Heatmap.png)
+
+**KPI Cards**
+![KPI Cards](assets/KPI_Cards.png)
+
+---
+
+### 3️⃣ Settlement Status Table (Traffic-Light Simulation)
+
+| Settlement | Status |
+|------------|--------|
+| EUR → USD  | 🟢 Authorised |
+| GBP → ZAR  | 🔴 Blocked   |
+| USD → JPY  | 🟢 Authorised |
+| AUD → CAD  | 🟢 Authorised |
+| CHF → GBP  | 🔴 Blocked   |
+
+> This table simulates the real-time visual decision-making of the dashboard for executive stakeholders.
 
 ---
 
@@ -90,6 +122,10 @@ Contributions are welcome!
 ### 🚀 Professional Highlights
 
 1. **Circuit Breaker Logic:** Uses terminology familiar to high-tier traders and risk managers.  
-2. **Clean, Executive Formatting:** Tables, bolded headers, and structured visuals for clarity.  
-3. **High-Impact Visuals:** Screenshots fully reference `/assets` folder to prevent 404 errors.  
+2. **Dashboard Visuals Included:** Settlement statuses, ROE charts, liquidity heatmaps, and KPI cards.  
+3. **Clean, Executive Formatting:** Tables, bolded headers, and structured visuals for clarity.  
 4. **Recruiter-Ready Language:** Governance, risk architecture, and treasury operations framing suitable for Big 4, FinTech, and Investment Banking portfolios.
+
+---
+
+**© 2025 Jatin Chotoo | FinOps & Risk Architecture Portfolio**
